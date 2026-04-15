@@ -1,4 +1,2 @@
-streamlit
-pandas
-numpy
-openpyxl
+pip install streamlit pandas numpy openpyxl
+streamlit run app.py
